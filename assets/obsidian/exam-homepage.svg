@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Calm Morandi exam dashboard banner">
+  <rect width="1200" height="260" fill="#f3f2ee"/>
+  <circle cx="180" cy="58" r="32" fill="#fffaf2" opacity="0.75"/>
+  <circle cx="960" cy="76" r="46" fill="#fffaf2" opacity="0.75"/>
+  <circle cx="1034" cy="110" r="24" fill="#fffaf2" opacity="0.65"/>
+  <path d="M0 104 C170 64 272 138 430 101 C600 60 744 76 894 126 C1010 164 1110 122 1200 88 L1200 260 L0 260 Z" fill="#eef1ec"/>
+  <path d="M0 136 C168 92 282 164 438 127 C606 86 748 95 902 153 C1020 196 1112 152 1200 116 L1200 260 L0 260 Z" fill="#ffffff" opacity="0.76"/>
+  <path d="M0 170 C150 130 270 196 420 159 C580 120 728 112 885 173 C1018 224 1114 178 1200 142 L1200 260 L0 260 Z" fill="#c8d4d5" opacity="0.68"/>
+  <path d="M0 186 C130 152 266 216 414 180 C570 142 720 135 876 192 C1012 242 1116 200 1200 166 L1200 260 L0 260 Z" fill="#d3ccd8" opacity="0.54"/>
+</svg>

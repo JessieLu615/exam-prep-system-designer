@@ -1,0 +1,4 @@
+interface:
+  display_name: "Exam Prep System Designer"
+  short_description: "Design personalized exam prep systems"
+  default_prompt: "Use $exam-prep-system-designer to design a personalized study planning and review system for my exam."
